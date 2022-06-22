@@ -1,0 +1,75 @@
+.first-sec{
+    
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: center;
+    width: 60%;
+}
+.main-box{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* color:wheat; */
+    /* background-color: rgb(37, 0, 97); */
+    background-image: linear-gradient( 180deg, rgb(37, 0, 97), rgb(68, 18, 168));                                    
+    
+
+}
+h1{
+    display: flex;
+    font-family: "mo-bayannu", Sans-serif;
+    font-size: 60px;
+    font-weight: bolder;
+    letter-spacing: 1.5px;
+    margin-top: 0px;
+    color: #FFCF07DE;
+    padding: 200px 0px 0px 0px;
+    justify-content: center;
+    
+}
+.first-sec p{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-family: "mo-bayannu", Sans-serif;      
+    letter-spacing: 1px;
+    line-height: 34px;;
+    margin-top: 0px;
+    font-size: 25px;
+    color: white;
+    margin: 30px 10px 0px  10px;
+    padding: 10px 110px 0px 100px;
+}
+.second-sec img {
+    display: flex;
+    /* background-size: cover; */
+    /* background-size: 1000px , 300px; */
+    height: 688px;
+    width: 100%;
+    align-items: left;
+}
+.first-sec-img img{ 
+    /* display: flex; */
+    /* justify-content: center; */
+    height: 70px;
+    width: 220px;
+    margin-top: 30px;
+    align-items: left;
+    /* border: 3px solid goldenrod;     */
+    margin: 20px 15px;
+    /*border-radius: 35px; */
+    /* color: goldenrod; */
+    /* background-color: rgb(70, 0, 161); */
+    font-size: 25px;
+    font-weight: bold;
+    /* padding: 15px 50px 15px 50px;  */
+
+    
+
+
+}
+
+.social-logos-home{
+    margin-left: 250px;
+}
+

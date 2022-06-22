@@ -1,0 +1,13 @@
+#NavBar
+logo https://hijabiqueens.io/wp-content/uploads/2022/02/HQ-3D-Version-3-1024x1024.png
+backgroung https://hijabiqueens.io/wp-content/uploads/2022/05/queens-website-banner.png
+first page view
+about hijabi queen
+slider hijabi queen
+images and button
+road map
+about founder
+about team
+featured in
+praises
+footer
